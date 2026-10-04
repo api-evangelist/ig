@@ -39,7 +39,6 @@ apis:
   - name: IG
     description: "Spreadbetting and CFD Market Data"
     humanURL: https://labs.ig.com/gettingstarted
-    baseURL: https://labs.ig.com/gettingstarted
     tags:
       - Finance
     properties:
